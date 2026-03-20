@@ -1,2 +1,3 @@
 # test-friday
-testing
+this friday will need to checkout
+and move to another hotel
